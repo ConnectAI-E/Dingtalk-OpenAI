@@ -9,7 +9,7 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/open-dingtalk/dingtalk-stream-sdk-go v0.0.4
 	github.com/patrickmn/go-cache v2.1.0+incompatible
-	github.com/sashabaranov/go-openai v1.17.6
+	github.com/mzWeb/go-openai v1.17.6
 	github.com/solywsh/chatgpt v0.0.14
 	gopkg.in/yaml.v2 v2.4.0
 	gorm.io/gorm v1.24.6
